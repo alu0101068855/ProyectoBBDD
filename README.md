@@ -6,3 +6,6 @@
 - Manuel Ramón Regalado Peraza (alu0100283433)
 
 Dentro del zip proyecto_final, se encuentra la base de datos en el archivo redsocial.sql y la carpeta venv necesaria para desplegar la api  rest con el archivo app.py.
+
+#### Enlance vìdeo inglés
+https://drive.google.com/file/d/1Y_ro2gCCkZCio-engo6JVUtLhwFOe4jt/view?usp=share_link
