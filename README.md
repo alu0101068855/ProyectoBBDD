@@ -1,4 +1,4 @@
-# Proyecto.
+# Proyecto Red Social.
 
 #### Integrantes del grupo
 - Marcos Jesús Santana Ramos (alu010101033471)
